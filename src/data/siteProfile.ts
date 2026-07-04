@@ -1,22 +1,22 @@
 export const siteProfile = {
   // Fill these fields with your own real info.
-  name: "Your Name",
-  initials: "YN",
+  name: "Ali 369",
+  initials: "AM",
   jobTitle: "Frontend Developer",
   tagline: "I build fast, beautiful web experiences.",
-  location: "City, Country",
+  location: "Tehran, Iran",
 
   // Contact: only Telegram ID
-  telegramId: "your_telegram_id",
-  telegramUrl: "https://t.me/your_telegram_id",
+  telegramId: "AM_3699",
+  telegramUrl: "https://t.me/AM_3699",
 
-  years: 8,
-  projects: 34,
-  technologies: 18,
+  years: 1,
+  projects: 9,
+  technologies: 5,
   commits: 2100,
 
-  projectRepo: "https://github.com/your-repo",
-  projectName: "TaskFlow",
+  projectRepo: "https://aliam664.github.io/369/",
+  projectName: "Classic games",
   projectDescription:
-    "TaskFlow is a lightweight project management app focused on team clarity and delivery speed. It combines task boards, timeline views, and collaboration threads in one fast interface.",
+    "Classic games",
 };
